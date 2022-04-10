@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Johnny Morano.
-- 👀 I’m interested in Terraform, Qemu, libvirtd, Ansible, Azure, Grafana, Prometheus, Loki, Perl, ...
+- 👀 I’m interested in Terraform, Qemu, libvirtd, Ansible, Azure, Grafana, Prometheus, Loki, Perl, PostgreSQL, Quantum Mechanics ...
 - 🌱 I’m currently learning a lot.
 
 <!---
